@@ -1,0 +1,27 @@
+{
+  "name": "landing-page",
+  "description": "Landing page que parece com o trello",
+  "main": "app.js",
+  "authors": [
+    "Paulo Monteiro"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "landing",
+    "page",
+    "trello",
+    "son"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "bootstrap": "^3.3.7"
+  }
+}
