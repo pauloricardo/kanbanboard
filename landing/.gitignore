@@ -1,4 +1,4 @@
-build/
-node_modules/
-bower_component/
-.idea/
+build
+node_modules
+bower_components
+.idea
